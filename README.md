@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-#About Bellabeat
+# About Bellabeat
 
 Bellabeat is a high tech manufacturer of health based products for
 women, and even though small they have been quite successful. Urška
@@ -8,7 +8,7 @@ company has potential to be a major player in the global smart device
 market and believes that by analyzing smart device data new growth
 potential can be found.
 
-##Main Questions
+## Main Questions
 
 1.What are some trends in smart device usage?
 
@@ -22,7 +22,7 @@ Analyze data on smart device usage on non-Bellabeat smart devices, then
 use those insights to provide recommendations for Bellabeat marketing
 strategy improvement.
 
-#Data Preparation
+# Data Preparation
 
 Installed and Loaded packages that would be necesary for the preparation
 and analysis of the data.
@@ -328,7 +328,7 @@ n_distinct(sleepDay$Id)
 low amounts of unique Id’s, however sleepDay has 24 which is close
 enough to our limit so it can still be included in the analysis.
 
-#Data Exploration and Analysis
+# Data Exploration and Analysis
 
 To get a grasp on the information the datasets contain, I selected
 specific columns in the data frames and summarized the data within them.
@@ -521,7 +521,7 @@ View(hourlyActivity)
 
 Now we are ready to create our visualizations!
 
-#Data Visualizations
+# Data Visualizations
 
 Alongside the summaries above, I used visualizations to find certain
 connections and draw conclusions on relationships between variables.
@@ -562,7 +562,7 @@ In both plots 17:00-19:00 hold the highest values, this signifies that
 during these hours the users are the most physically active as they have
 the highest average intensity and most calories lost.
 
-#Summary and Recommendations
+# Summary and Recommendations
 
 Through the data we are able to get a picture of what type of people use
 fitness tracker devices, working women who find time later in the day to
