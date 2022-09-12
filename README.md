@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #About Bellabeat
 
 Bellabeat is a high tech manufacturer of health based products for
@@ -597,3 +598,6 @@ companion rather than just another fitness tracker. This can greatly
 impact the lives of women who might not have enough time to spend hours
 in the gym and track how much calories they burn when they go out for a
 walk.
+=======
+
+>>>>>>> 1acc51c44fb21c6dd182f6f48283d65c5e585654
