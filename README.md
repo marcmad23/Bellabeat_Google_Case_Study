@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # About Bellabeat
 
 Bellabeat is a high tech manufacturer of health based products for
@@ -21,6 +21,43 @@ potential can be found.
 Analyze data on smart device usage on non-Bellabeat smart devices, then
 use those insights to provide recommendations for Bellabeat marketing
 strategy improvement.
+
+# Summary and Recommendations
+
+Through the data we are able to get a picture of what type of people use
+fitness tracker devices, working women who find time later in the day to
+engage in light physical activity. However, there are quite a few
+limitations on this data, there is some missing data for an ID,
+4057192912, which could affect the analysis. Based off what we have
+there are many things that we can include in Bellabeat products to
+increrase our presence in the global smart device market
+
+1.  Tracking the light activity that so many users engage in would not
+    only be motivation but it would serve to keep progress on things
+    such as weight maintenance and overall physical fitness. These are
+    busy women who spend a good portion of their time remaining
+    sedentary, by marking their progress not only will they be able to
+    gauge themselves it would also encourage them to engage in even more
+    physical activity.
+
+2.  It was discovered that many of these users seemed to be more active
+    around the times 17:00-19:00,or 5pm-7pm, by sending notifications
+    around this time Bellabeat can promote more physical activity at a
+    time when the users are done with work.
+
+3.  By promoting more activity, sedentary minutes will decrease, earlier
+    in this analysis a relationship between sedentary minutes and total
+    time asleep was found. The more time a user spend being sedentary
+    the less sleep they would get, and the average was about 419.5 min
+    or about 6 hours. This is below the recommended amount of 7-8 hours,
+    so not only will Bellabeat promote a healthier lifestyle, they will
+    help their users sleep alot better at night.
+
+Through these changes and updates, Bellabeat can be more of a health
+companion rather than just another fitness tracker. This can greatly
+impact the lives of women who might not have enough time to spend hours
+in the gym and track how much calories they burn when they go out for a
+walk.
 
 # Data Preparation
 
@@ -562,42 +599,7 @@ In both plots 17:00-19:00 hold the highest values, this signifies that
 during these hours the users are the most physically active as they have
 the highest average intensity and most calories lost.
 
-# Summary and Recommendations
 
-Through the data we are able to get a picture of what type of people use
-fitness tracker devices, working women who find time later in the day to
-engage in light physical activity. However, there are quite a few
-limitations on this data, there is some missing data for an ID,
-4057192912, which could affect the analysis. Based off what we have
-there are many things that we can include in Bellabeat products to
-increrase our presence in the global smart device market
-
-1.  Tracking the light activity that so many users engage in would not
-    only be motivation but it would serve to keep progress on things
-    such as weight maintenance and overall physical fitness. These are
-    busy women who spend a good portion of their time remaining
-    sedentary, by marking their progress not only will they be able to
-    gauge themselves it would also encourage them to engage in even more
-    physical activity.
-
-2.  It was discovered that many of these users seemed to be more active
-    around the times 17:00-19:00,or 5pm-7pm, by sending notifications
-    around this time Bellabeat can promote more physical activity at a
-    time when the users are done with work.
-
-3.  By promoting more activity, sedentary minutes will decrease, earlier
-    in this analysis a relationship between sedentary minutes and total
-    time asleep was found. The more time a user spend being sedentary
-    the less sleep they would get, and the average was about 419.5 min
-    or about 6 hours. This is below the recommended amount of 7-8 hours,
-    so not only will Bellabeat promote a healthier lifestyle, they will
-    help their users sleep alot better at night.
-
-Through these changes and updates, Bellabeat can be more of a health
-companion rather than just another fitness tracker. This can greatly
-impact the lives of women who might not have enough time to spend hours
-in the gym and track how much calories they burn when they go out for a
-walk.
 =======
 
 >>>>>>> 1acc51c44fb21c6dd182f6f48283d65c5e585654
